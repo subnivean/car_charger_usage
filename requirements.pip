@@ -3,6 +3,8 @@
 
 jupyter
 pyqt5
+pandas
+pyarrow # Soon-to-be-required by Pandas
 
 # This is required to get directory history in IPython
 pickleshare
